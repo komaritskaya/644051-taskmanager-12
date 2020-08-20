@@ -50,3 +50,9 @@ loadMoreButtonElement.addEventListener(`click`, () => {
     loadMoreButtonElement.remove();
   }
 });
+
+//    /\_/\
+//   / - - \
+//  <_  X  _>   /\_/\
+//  /       \  <_0_0_>
+// (_)_U_U_(_)  (u_u)
